@@ -10,4 +10,4 @@ public class WebRestService {
         return "hello to you friend !";
     }
 
-}
+};
